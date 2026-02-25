@@ -1,0 +1,10 @@
+# Environment
+.env
+venv/
+__pycache__/
+
+# Chroma DB
+backend/db/chroma_db/
+
+# Python cache
+*.pyc

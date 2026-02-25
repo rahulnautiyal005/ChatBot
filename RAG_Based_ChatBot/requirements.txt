@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+openai
+chromadb
+python-dotenv
+pydantic
+pypdf
+numpy
+tiktoken
